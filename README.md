@@ -127,6 +127,9 @@ pip install cython
 pip install numpy
 pip install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
 pip install git+git://github.com/nmonath/kdcovid.git
+
+
+pip install git+https://github.com/nmonath/sent2vec.git
 ```
 
 
